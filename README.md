@@ -2,7 +2,7 @@
 > Purify theme for fish
 
 <p align="center">
-  <img src="https://i.imgur.com/.png" width="900px">
+  <img src="https://i.imgur.com/rxtSdob.png" width="900px">
 </p>
 
 ## Installation
@@ -25,10 +25,8 @@ omf theme purify.fish
 
 ## References
 
-* [Hyper.js](https://hyper.is/) - Terminal
 * [Iosevka](https://github.com/be5invis/Iosevka) - font (FREE)
 * [iquotes-cli](https://github.com/kyoz/iquotes-cli) - Get random quotes offline
-* [pji](https://github.com/kyoz/pji) - Fast init for node project...
 * [Bash colors & formating](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
 * [ASCII Art](https://textart4u.blogspot.com/2013/03/one-line-ascii-text-art.html)
 
