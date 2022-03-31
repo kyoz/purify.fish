@@ -1,4 +1,4 @@
-# Fish
+# Purify Fish
 > Purify theme for fish
 
 <p align="center">
@@ -12,10 +12,16 @@ You have to install [fish](https://github.com/fish-shell/fish-shell) & [oh-my-fi
 Then run this to install
 
 ```sh
-omf install kyoz/purify.fish
+omf install https://github.com/kyoz/purify.fish
 ```
 
 Close and open the terminal again
+
+If it not work, try `omf list` to see if the theme are already installed. Then call:
+
+```
+omf theme purify.fish
+```
 
 ## References
 
