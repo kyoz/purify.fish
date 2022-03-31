@@ -2,7 +2,7 @@
 > Purify theme for fish
 
 <p align="center">
-  <img src="https://i.imgur.com/rxtSdob.png" width="900px">
+  <img src="https://i.imgur.com/rxtSdob.png" width="680px">
 </p>
 
 ## Installation
